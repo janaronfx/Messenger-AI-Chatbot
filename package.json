@@ -15,7 +15,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon execute.js"
+    "start": "node execute.js"
   },
   "author": "suff3r1ng",
   "license": "ISC"
